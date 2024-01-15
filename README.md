@@ -11,8 +11,8 @@ This Streamlit application leverages the Gemini API to process and extract infor
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MangeshKendre/Gen-Ai---Invoice-extracter.git
-    cd Gen-Ai---Invoice-extracter
+    git clone https://github.com/MangeshKendre/Gen-Ai---data imf -extracter.git
+    cd Gen-Ai---data imf --extracter
     ```
 
 2. Install dependencies:
