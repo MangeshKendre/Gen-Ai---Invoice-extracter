@@ -41,7 +41,7 @@ def input_image_setup(uploaded_file):
 st.set_page_config(page_title="Gemini Image Demo")
 
 # Set up header for the Streamlit app
-st.header("Google - Geminin Invoice Image Extractor Application")
+st.header("Image data Extractor Application (Gen Ai)")
 
 # File uploader for image selection
 uploaded_file = st.file_uploader("Select image ...", type=["jpg", "jpeg", "png"])
